@@ -36,7 +36,7 @@ Follow these instructions to set up the project locally:
 
 4. Configure the database connection in application.properties
 
-5. Execute the content of the schema.sql file located in project resources folder into the MySQL script window manually.
+5. Execute the content of the [schema.sql](https://github.com/akar-777/My-challenges/raw/refs/heads/main/PazhouhandeRah-demo/src/main/resources/schema.sql) file located in project resources folder into the MySQL script window manually.
 
 6. Start the application by running below command on the commandline(terminal)
    ```bash
