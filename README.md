@@ -42,15 +42,19 @@ Follow these instructions to set up the project locally:
    ```bash
    mvn spring-boot:run
 
-7. Access the application and get specified metrics, copy and paste below url
-   ```bash
-   http://localhost:8080/metrics
-   OR
-   curl http://localhost:8080/metrics
+7. To access the application and retrieve the specified metrics, you can:
+   1. **Copy and paste the URL below:**
+      ```bash
+      http://localhost:8080/metrics
+   3. **Or execute the following curl command in your command line:**
+      ```bash
+      curl http://localhost:8080/metrics
 
-8. Access the application and get advertisment reccomendation, copy and paste below url metrics, copy and paste below url
-```bash
-   http://localhost:8080/recommendation
-   OR
-   curl http://localhost:8080/recommendation
-
+8. To access the application and retrieve advertisment reccomendation, you can:      
+    1. **Copy and paste the URL below:**
+       ```bash
+       http://localhost:8080/recommendation
+    3. **Or execute the following curl command in your command line:**
+       ```bash
+       curl http://localhost:8080/recommendation
+       
