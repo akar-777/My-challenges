@@ -13,7 +13,7 @@ This repository contains various coding challenges I have solved, demonstrating 
 ## PazhouhandeRah-demo
 
 #### Overview
-This challenge is about applying metrics to gather valuable insights in the advertising sector.
+This challenge is about applying metrics to obtain valuable information in the advertising sector.
 
 #### Technologies Used
 - **Java**: version : 11
