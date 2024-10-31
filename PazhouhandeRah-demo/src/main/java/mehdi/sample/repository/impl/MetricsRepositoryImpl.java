@@ -19,7 +19,7 @@ public class MetricsRepositoryImpl implements MetricsRepository {
     public List<MetricDTO> calculateMetricsFromAppAndCountry() {
         String query = "SELECT new mehdi.sample.DTO.MetricDTO(i.appId, i.countryCode, " +
                 "COUNT(i), COUNT(c), SUM(c.revenue)) " +
-                "FROM ImpressionEvent i INNER JOIN ClickEvent c ON i.impressionId = c.impressionId " +
+                "FROM ImpressionEvent i LEFT JOIN ClickEvent c ON i.impressionId = c.impressionId " +
                 "GROUP BY i.appId, i.countryCode";
         return entityManager.createQuery(query, MetricDTO.class).getResultList();
     }

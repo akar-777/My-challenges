@@ -24,7 +24,10 @@ hs_err_pid*
 replay_pid*
 
 # target folder
-/target
+*/target/
 
 # all impl files
 *.impl
+
+# idea files
+*/.idea/
