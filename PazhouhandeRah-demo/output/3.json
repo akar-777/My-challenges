@@ -1,0 +1,243 @@
+[
+  {
+    "appId": 1,
+    "countryCode": "IT",
+    "recommended_advertiser_ids": [
+      7
+    ]
+  },
+  {
+    "appId": 4,
+    "countryCode": "IT",
+    "recommended_advertiser_ids": [
+      15
+    ]
+  },
+  {
+    "appId": 5,
+    "countryCode": "DE",
+    "recommended_advertiser_ids": [
+      21
+    ]
+  },
+  {
+    "appId": 5,
+    "countryCode": "IT",
+    "recommended_advertiser_ids": [
+      12
+    ]
+  },
+  {
+    "appId": 7,
+    "countryCode": "DE",
+    "recommended_advertiser_ids": [
+      20
+    ]
+  },
+  {
+    "appId": 7,
+    "countryCode": "IT",
+    "recommended_advertiser_ids": [
+      6
+    ]
+  },
+  {
+    "appId": 9,
+    "countryCode": "US",
+    "recommended_advertiser_ids": [
+      8
+    ]
+  },
+  {
+    "appId": 10,
+    "countryCode": "US",
+    "recommended_advertiser_ids": [
+      22
+    ]
+  },
+  {
+    "appId": 11,
+    "countryCode": "US",
+    "recommended_advertiser_ids": [
+      18
+    ]
+  },
+  {
+    "appId": 13,
+    "countryCode": "DE",
+    "recommended_advertiser_ids": [
+      10
+    ]
+  },
+  {
+    "appId": 13,
+    "countryCode": "US",
+    "recommended_advertiser_ids": [
+      12
+    ]
+  },
+  {
+    "appId": 14,
+    "countryCode": "UK",
+    "recommended_advertiser_ids": [
+      10
+    ]
+  },
+  {
+    "appId": 15,
+    "countryCode": "US",
+    "recommended_advertiser_ids": [
+      34
+    ]
+  },
+  {
+    "appId": 16,
+    "countryCode": "UK",
+    "recommended_advertiser_ids": [
+      17
+    ]
+  },
+  {
+    "appId": 16,
+    "countryCode": "US",
+    "recommended_advertiser_ids": [
+      7
+    ]
+  },
+  {
+    "appId": 18,
+    "countryCode": "DE",
+    "recommended_advertiser_ids": [
+      10
+    ]
+  },
+  {
+    "appId": 18,
+    "countryCode": "IT",
+    "recommended_advertiser_ids": [
+      16
+    ]
+  },
+  {
+    "appId": 21,
+    "countryCode": "DE",
+    "recommended_advertiser_ids": [
+      22
+    ]
+  },
+  {
+    "appId": 22,
+    "countryCode": "DE",
+    "recommended_advertiser_ids": [
+      20
+    ]
+  },
+  {
+    "appId": 22,
+    "countryCode": "IT",
+    "recommended_advertiser_ids": [
+      20
+    ]
+  },
+  {
+    "appId": 23,
+    "countryCode": "US",
+    "recommended_advertiser_ids": [
+      10,
+      17
+    ]
+  },
+  {
+    "appId": 24,
+    "countryCode": "UK",
+    "recommended_advertiser_ids": [
+      19
+    ]
+  },
+  {
+    "appId": 25,
+    "countryCode": "UK",
+    "recommended_advertiser_ids": [
+      11
+    ]
+  },
+  {
+    "appId": 26,
+    "countryCode": "DE",
+    "recommended_advertiser_ids": [
+      16
+    ]
+  },
+  {
+    "appId": 27,
+    "countryCode": "IT",
+    "recommended_advertiser_ids": [
+      14
+    ]
+  },
+  {
+    "appId": 28,
+    "countryCode": "US",
+    "recommended_advertiser_ids": [
+      29
+    ]
+  },
+  {
+    "appId": 30,
+    "countryCode": "DE",
+    "recommended_advertiser_ids": [
+      27
+    ]
+  },
+  {
+    "appId": 30,
+    "countryCode": "US",
+    "recommended_advertiser_ids": [
+      9,
+      28
+    ]
+  },
+  {
+    "appId": 33,
+    "countryCode": "US",
+    "recommended_advertiser_ids": [
+      11
+    ]
+  },
+  {
+    "appId": 34,
+    "countryCode": "DE",
+    "recommended_advertiser_ids": [
+      28
+    ]
+  },
+  {
+    "appId": 35,
+    "countryCode": "IT",
+    "recommended_advertiser_ids": [
+      33
+    ]
+  },
+  {
+    "appId": 38,
+    "countryCode": "IT",
+    "recommended_advertiser_ids": [
+      10
+    ]
+  },
+  {
+    "appId": 39,
+    "countryCode": "US",
+    "recommended_advertiser_ids": [
+      5
+    ]
+  },
+  {
+    "appId": 40,
+    "countryCode": "DE",
+    "recommended_advertiser_ids": [
+      14,
+      30
+    ]
+  }
+]
